@@ -4,4 +4,6 @@ project/target/
 project/project/
 data/raw/
 !dashboard/data/.gitkeep
+dashboard/data/**/_SUCCESS
+dashboard/data/**/*.crc
 .DS_Store
