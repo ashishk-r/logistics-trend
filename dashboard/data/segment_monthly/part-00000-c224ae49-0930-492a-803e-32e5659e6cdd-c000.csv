@@ -1,0 +1,797 @@
+month,market,region,shipping_mode,total_orders,late_orders,avg_actual_days,avg_scheduled_days,avg_excess_days,late_rate_pct
+2015-01,LATAM,Caribbean,First Class,31,31,2.0,1.0,1.0,100.0
+2015-01,LATAM,Caribbean,Same Day,9,5,0.56,0.0,0.56,55.56
+2015-01,LATAM,Caribbean,Second Class,53,44,4.04,2.0,2.04,83.02
+2015-01,LATAM,Caribbean,Standard Class,194,73,3.95,4.0,0.56,37.63
+2015-01,LATAM,Central America,First Class,133,133,2.0,1.0,1.0,100.0
+2015-01,LATAM,Central America,Same Day,51,19,0.37,0.0,0.37,37.25
+2015-01,LATAM,Central America,Second Class,197,156,3.93,2.0,1.93,79.19
+2015-01,LATAM,Central America,Standard Class,518,217,4.06,4.0,0.64,41.89
+2015-01,LATAM,South America,First Class,63,63,2.0,1.0,1.0,100.0
+2015-01,LATAM,South America,Same Day,22,13,0.59,0.0,0.59,59.09
+2015-01,LATAM,South America,Second Class,94,72,3.89,2.0,1.89,76.6
+2015-01,LATAM,South America,Standard Class,348,137,3.95,4.0,0.59,39.37
+2015-02,LATAM,Caribbean,First Class,49,49,2.0,1.0,1.0,100.0
+2015-02,LATAM,Caribbean,Same Day,17,10,0.59,0.0,0.59,58.82
+2015-02,LATAM,Caribbean,Second Class,58,48,4.02,2.0,2.02,82.76
+2015-02,LATAM,Caribbean,Standard Class,172,67,4.02,4.0,0.59,38.95
+2015-02,LATAM,Central America,First Class,124,124,2.0,1.0,1.0,100.0
+2015-02,LATAM,Central America,Same Day,55,29,0.53,0.0,0.53,52.73
+2015-02,LATAM,Central America,Second Class,156,121,4.05,2.0,2.05,77.56
+2015-02,LATAM,Central America,Standard Class,467,181,4.0,4.0,0.59,38.76
+2015-02,LATAM,South America,First Class,54,54,2.0,1.0,1.0,100.0
+2015-02,LATAM,South America,Same Day,15,10,0.67,0.0,0.67,66.67
+2015-02,LATAM,South America,Second Class,87,74,4.14,2.0,2.14,85.06
+2015-02,LATAM,South America,Standard Class,251,104,3.99,4.0,0.61,41.43
+2015-03,LATAM,Caribbean,First Class,46,46,2.0,1.0,1.0,100.0
+2015-03,LATAM,Caribbean,Same Day,17,9,0.53,0.0,0.53,52.94
+2015-03,LATAM,Caribbean,Second Class,50,44,4.28,2.0,2.28,88.0
+2015-03,LATAM,Caribbean,Standard Class,172,74,4.06,4.0,0.63,43.02
+2015-03,LATAM,Central America,First Class,145,145,2.0,1.0,1.0,100.0
+2015-03,LATAM,Central America,Same Day,59,28,0.47,0.0,0.47,47.46
+2015-03,LATAM,Central America,Second Class,202,157,4.0,2.0,2.0,77.72
+2015-03,LATAM,Central America,Standard Class,560,221,3.99,4.0,0.58,39.46
+2015-03,LATAM,South America,First Class,90,90,2.0,1.0,1.0,100.0
+2015-03,LATAM,South America,Same Day,26,7,0.27,0.0,0.27,26.92
+2015-03,LATAM,South America,Second Class,75,62,4.09,2.0,2.09,82.67
+2015-03,LATAM,South America,Standard Class,260,95,3.92,4.0,0.57,36.54
+2015-04,LATAM,Caribbean,First Class,26,26,2.0,1.0,1.0,100.0
+2015-04,LATAM,Caribbean,Same Day,15,7,0.47,0.0,0.47,46.67
+2015-04,LATAM,Caribbean,Second Class,52,42,3.88,2.0,1.88,80.77
+2015-04,LATAM,Caribbean,Standard Class,164,60,3.95,4.0,0.55,36.59
+2015-04,LATAM,Central America,First Class,135,135,2.0,1.0,1.0,100.0
+2015-04,LATAM,Central America,Same Day,40,22,0.55,0.0,0.55,55.0
+2015-04,LATAM,Central America,Second Class,202,163,3.97,2.0,1.97,80.69
+2015-04,LATAM,Central America,Standard Class,626,246,3.99,4.0,0.6,39.3
+2015-04,LATAM,South America,First Class,59,59,2.0,1.0,1.0,100.0
+2015-04,LATAM,South America,Same Day,20,13,0.65,0.0,0.65,65.0
+2015-04,LATAM,South America,Second Class,72,53,3.86,2.0,1.86,73.61
+2015-04,LATAM,South America,Standard Class,228,101,4.11,4.0,0.66,44.3
+2015-05,Europe,Northern Europe,First Class,3,3,2.0,1.0,1.0,100.0
+2015-05,Europe,Northern Europe,Second Class,4,3,4.0,2.0,2.0,75.0
+2015-05,Europe,Northern Europe,Standard Class,6,2,4.0,4.0,0.67,33.33
+2015-05,Europe,Southern Europe,First Class,1,1,2.0,1.0,1.0,100.0
+2015-05,Europe,Southern Europe,Second Class,1,1,3.0,2.0,1.0,100.0
+2015-05,Europe,Southern Europe,Standard Class,2,1,4.5,4.0,0.5,50.0
+2015-05,Europe,Western Europe,First Class,2,2,2.0,1.0,1.0,100.0
+2015-05,Europe,Western Europe,Same Day,1,1,1.0,0.0,1.0,100.0
+2015-05,Europe,Western Europe,Second Class,7,5,4.14,2.0,2.14,71.43
+2015-05,Europe,Western Europe,Standard Class,13,6,4.15,4.0,0.69,46.15
+2015-05,LATAM,Caribbean,First Class,38,38,2.0,1.0,1.0,100.0
+2015-05,LATAM,Caribbean,Same Day,17,12,0.71,0.0,0.71,70.59
+2015-05,LATAM,Caribbean,Second Class,41,34,4.12,2.0,2.12,82.93
+2015-05,LATAM,Caribbean,Standard Class,130,41,3.82,4.0,0.49,31.54
+2015-05,LATAM,Central America,First Class,149,149,2.0,1.0,1.0,100.0
+2015-05,LATAM,Central America,Same Day,44,23,0.52,0.0,0.52,52.27
+2015-05,LATAM,Central America,Second Class,132,101,3.9,2.0,1.9,76.52
+2015-05,LATAM,Central America,Standard Class,468,190,4.03,4.0,0.6,40.6
+2015-05,LATAM,South America,First Class,90,90,2.0,1.0,1.0,100.0
+2015-05,LATAM,South America,Same Day,26,16,0.62,0.0,0.62,61.54
+2015-05,LATAM,South America,Second Class,121,101,4.09,2.0,2.09,83.47
+2015-05,LATAM,South America,Standard Class,388,149,3.94,4.0,0.57,38.4
+2015-06,Europe,Northern Europe,First Class,55,55,2.0,1.0,1.0,100.0
+2015-06,Europe,Northern Europe,Same Day,19,6,0.32,0.0,0.32,31.58
+2015-06,Europe,Northern Europe,Second Class,56,40,3.8,2.0,1.8,71.43
+2015-06,Europe,Northern Europe,Standard Class,221,91,4.03,4.0,0.62,41.18
+2015-06,Europe,Southern Europe,First Class,35,35,2.0,1.0,1.0,100.0
+2015-06,Europe,Southern Europe,Same Day,10,2,0.2,0.0,0.2,20.0
+2015-06,Europe,Southern Europe,Second Class,56,40,3.91,2.0,1.91,71.43
+2015-06,Europe,Southern Europe,Standard Class,204,79,3.96,4.0,0.56,38.73
+2015-06,Europe,Western Europe,First Class,140,140,2.0,1.0,1.0,100.0
+2015-06,Europe,Western Europe,Same Day,54,28,0.52,0.0,0.52,51.85
+2015-06,Europe,Western Europe,Second Class,212,172,4.03,2.0,2.03,81.13
+2015-06,Europe,Western Europe,Standard Class,589,253,4.05,4.0,0.64,42.95
+2015-07,Europe,Northern Europe,First Class,53,53,2.0,1.0,1.0,100.0
+2015-07,Europe,Northern Europe,Same Day,24,7,0.29,0.0,0.29,29.17
+2015-07,Europe,Northern Europe,Second Class,75,63,4.04,2.0,2.04,84.0
+2015-07,Europe,Northern Europe,Standard Class,218,77,3.87,4.0,0.55,35.32
+2015-07,Europe,Southern Europe,First Class,63,63,2.0,1.0,1.0,100.0
+2015-07,Europe,Southern Europe,Same Day,33,15,0.45,0.0,0.45,45.45
+2015-07,Europe,Southern Europe,Second Class,70,60,4.14,2.0,2.14,85.71
+2015-07,Europe,Southern Europe,Standard Class,225,93,3.99,4.0,0.6,41.33
+2015-07,Europe,Western Europe,First Class,139,139,2.0,1.0,1.0,100.0
+2015-07,Europe,Western Europe,Same Day,56,20,0.36,0.0,0.36,35.71
+2015-07,Europe,Western Europe,Second Class,179,146,4.13,2.0,2.13,81.56
+2015-07,Europe,Western Europe,Standard Class,569,227,4.01,4.0,0.61,39.89
+2015-08,Europe,Northern Europe,First Class,64,64,2.0,1.0,1.0,100.0
+2015-08,Europe,Northern Europe,Same Day,24,6,0.25,0.0,0.25,25.0
+2015-08,Europe,Northern Europe,Second Class,80,64,3.91,2.0,1.91,80.0
+2015-08,Europe,Northern Europe,Standard Class,213,81,3.91,4.0,0.58,38.03
+2015-08,Europe,Southern Europe,First Class,44,44,2.0,1.0,1.0,100.0
+2015-08,Europe,Southern Europe,Same Day,14,9,0.64,0.0,0.64,64.29
+2015-08,Europe,Southern Europe,Second Class,60,44,3.95,2.0,1.95,73.33
+2015-08,Europe,Southern Europe,Standard Class,203,65,3.78,4.0,0.47,32.02
+2015-08,Europe,Western Europe,First Class,173,173,2.0,1.0,1.0,100.0
+2015-08,Europe,Western Europe,Same Day,45,22,0.49,0.0,0.49,48.89
+2015-08,Europe,Western Europe,Second Class,213,173,4.11,2.0,2.11,81.22
+2015-08,Europe,Western Europe,Standard Class,545,221,4.02,4.0,0.63,40.55
+2015-09,Europe,Northern Europe,First Class,48,48,2.0,1.0,1.0,100.0
+2015-09,Europe,Northern Europe,Same Day,10,1,0.1,0.0,0.1,10.0
+2015-09,Europe,Northern Europe,Second Class,65,56,4.03,2.0,2.03,86.15
+2015-09,Europe,Northern Europe,Standard Class,211,90,4.02,4.0,0.65,42.65
+2015-09,Europe,Southern Europe,First Class,48,48,2.0,1.0,1.0,100.0
+2015-09,Europe,Southern Europe,Same Day,18,9,0.5,0.0,0.5,50.0
+2015-09,Europe,Southern Europe,Second Class,55,42,3.75,2.0,1.75,76.36
+2015-09,Europe,Southern Europe,Standard Class,218,85,3.98,4.0,0.59,38.99
+2015-09,Europe,Western Europe,First Class,153,153,2.0,1.0,1.0,100.0
+2015-09,Europe,Western Europe,Same Day,42,18,0.43,0.0,0.43,42.86
+2015-09,Europe,Western Europe,Second Class,195,158,3.95,2.0,1.95,81.03
+2015-09,Europe,Western Europe,Standard Class,571,243,4.05,4.0,0.63,42.56
+2015-10,Europe,Northern Europe,First Class,52,52,2.0,1.0,1.0,100.0
+2015-10,Europe,Northern Europe,Same Day,7,5,0.71,0.0,0.71,71.43
+2015-10,Europe,Northern Europe,Second Class,55,40,3.95,2.0,1.95,72.73
+2015-10,Europe,Northern Europe,Standard Class,169,61,3.94,4.0,0.54,36.09
+2015-10,Europe,Southern Europe,First Class,53,53,2.0,1.0,1.0,100.0
+2015-10,Europe,Southern Europe,Same Day,17,13,0.76,0.0,0.76,76.47
+2015-10,Europe,Southern Europe,Second Class,44,36,3.91,2.0,1.91,81.82
+2015-10,Europe,Southern Europe,Standard Class,143,51,3.96,4.0,0.55,35.66
+2015-10,Europe,Western Europe,First Class,120,120,2.0,1.0,1.0,100.0
+2015-10,Europe,Western Europe,Same Day,43,20,0.47,0.0,0.47,46.51
+2015-10,Europe,Western Europe,Second Class,124,102,4.17,2.0,2.17,82.26
+2015-10,Europe,Western Europe,Standard Class,431,175,4.0,4.0,0.62,40.6
+2015-10,Pacific Asia,Eastern Asia,First Class,13,13,2.0,1.0,1.0,100.0
+2015-10,Pacific Asia,Eastern Asia,Same Day,7,7,1.0,0.0,1.0,100.0
+2015-10,Pacific Asia,Eastern Asia,Second Class,26,20,3.88,2.0,1.88,76.92
+2015-10,Pacific Asia,Eastern Asia,Standard Class,90,39,4.04,4.0,0.62,43.33
+2015-10,Pacific Asia,Oceania,First Class,13,13,2.0,1.0,1.0,100.0
+2015-10,Pacific Asia,Oceania,Same Day,7,2,0.29,0.0,0.29,28.57
+2015-10,Pacific Asia,Oceania,Second Class,14,11,3.79,2.0,1.79,78.57
+2015-10,Pacific Asia,Oceania,Standard Class,73,31,4.0,4.0,0.63,42.47
+2015-10,Pacific Asia,South Asia,First Class,11,11,2.0,1.0,1.0,100.0
+2015-10,Pacific Asia,South Asia,Same Day,1,1,1.0,0.0,1.0,100.0
+2015-10,Pacific Asia,South Asia,Second Class,16,11,3.94,2.0,1.94,68.75
+2015-10,Pacific Asia,South Asia,Standard Class,39,13,4.0,4.0,0.51,33.33
+2015-10,Pacific Asia,Southeast Asia,First Class,22,22,2.0,1.0,1.0,100.0
+2015-10,Pacific Asia,Southeast Asia,Same Day,6,5,0.83,0.0,0.83,83.33
+2015-10,Pacific Asia,Southeast Asia,Second Class,26,22,4.27,2.0,2.27,84.62
+2015-10,Pacific Asia,Southeast Asia,Standard Class,74,24,3.7,4.0,0.5,32.43
+2015-11,Pacific Asia,Eastern Asia,First Class,55,55,2.0,1.0,1.0,100.0
+2015-11,Pacific Asia,Eastern Asia,Same Day,21,10,0.48,0.0,0.48,47.62
+2015-11,Pacific Asia,Eastern Asia,Second Class,87,68,4.01,2.0,2.01,78.16
+2015-11,Pacific Asia,Eastern Asia,Standard Class,243,86,3.86,4.0,0.54,35.39
+2015-11,Pacific Asia,Oceania,First Class,47,47,2.0,1.0,1.0,100.0
+2015-11,Pacific Asia,Oceania,Same Day,27,11,0.41,0.0,0.41,40.74
+2015-11,Pacific Asia,Oceania,Second Class,89,68,3.82,2.0,1.82,76.4
+2015-11,Pacific Asia,Oceania,Standard Class,260,107,4.05,4.0,0.59,41.15
+2015-11,Pacific Asia,South Asia,First Class,62,62,2.0,1.0,1.0,100.0
+2015-11,Pacific Asia,South Asia,Same Day,13,6,0.46,0.0,0.46,46.15
+2015-11,Pacific Asia,South Asia,Second Class,52,41,4.02,2.0,2.02,78.85
+2015-11,Pacific Asia,South Asia,Standard Class,181,69,3.99,4.0,0.59,38.12
+2015-11,Pacific Asia,Southeast Asia,First Class,79,79,2.0,1.0,1.0,100.0
+2015-11,Pacific Asia,Southeast Asia,Same Day,26,11,0.42,0.0,0.42,42.31
+2015-11,Pacific Asia,Southeast Asia,Second Class,103,86,4.09,2.0,2.09,83.5
+2015-11,Pacific Asia,Southeast Asia,Standard Class,313,135,4.07,4.0,0.65,43.13
+2015-12,Pacific Asia,Eastern Asia,First Class,54,54,2.0,1.0,1.0,100.0
+2015-12,Pacific Asia,Eastern Asia,Same Day,27,14,0.52,0.0,0.52,51.85
+2015-12,Pacific Asia,Eastern Asia,Second Class,68,56,4.01,2.0,2.01,82.35
+2015-12,Pacific Asia,Eastern Asia,Standard Class,245,100,4.04,4.0,0.61,40.82
+2015-12,Pacific Asia,Oceania,First Class,65,65,2.0,1.0,1.0,100.0
+2015-12,Pacific Asia,Oceania,Same Day,32,10,0.31,0.0,0.31,31.25
+2015-12,Pacific Asia,Oceania,Second Class,96,74,4.07,2.0,2.07,77.08
+2015-12,Pacific Asia,Oceania,Standard Class,254,99,3.94,4.0,0.58,38.98
+2015-12,Pacific Asia,South Asia,First Class,51,51,2.0,1.0,1.0,100.0
+2015-12,Pacific Asia,South Asia,Same Day,21,8,0.38,0.0,0.38,38.1
+2015-12,Pacific Asia,South Asia,Second Class,89,74,4.09,2.0,2.09,83.15
+2015-12,Pacific Asia,South Asia,Standard Class,195,79,3.93,4.0,0.6,40.51
+2015-12,Pacific Asia,Southeast Asia,First Class,95,95,2.0,1.0,1.0,100.0
+2015-12,Pacific Asia,Southeast Asia,Same Day,28,11,0.39,0.0,0.39,39.29
+2015-12,Pacific Asia,Southeast Asia,Second Class,89,73,3.91,2.0,1.91,82.02
+2015-12,Pacific Asia,Southeast Asia,Standard Class,322,125,3.99,4.0,0.59,38.82
+2016-01,Pacific Asia,Eastern Asia,First Class,52,52,2.0,1.0,1.0,100.0
+2016-01,Pacific Asia,Eastern Asia,Same Day,15,6,0.4,0.0,0.4,40.0
+2016-01,Pacific Asia,Eastern Asia,Second Class,81,68,4.05,2.0,2.05,83.95
+2016-01,Pacific Asia,Eastern Asia,Standard Class,205,85,4.01,4.0,0.64,41.46
+2016-01,Pacific Asia,Oceania,First Class,65,65,2.0,1.0,1.0,100.0
+2016-01,Pacific Asia,Oceania,Same Day,31,15,0.48,0.0,0.48,48.39
+2016-01,Pacific Asia,Oceania,Second Class,79,61,3.84,2.0,1.84,77.22
+2016-01,Pacific Asia,Oceania,Standard Class,244,98,4.02,4.0,0.57,40.16
+2016-01,Pacific Asia,South Asia,First Class,63,63,2.0,1.0,1.0,100.0
+2016-01,Pacific Asia,South Asia,Same Day,21,14,0.67,0.0,0.67,66.67
+2016-01,Pacific Asia,South Asia,Second Class,78,62,4.04,2.0,2.04,79.49
+2016-01,Pacific Asia,South Asia,Standard Class,221,86,3.96,4.0,0.57,38.91
+2016-01,Pacific Asia,Southeast Asia,First Class,72,72,2.0,1.0,1.0,100.0
+2016-01,Pacific Asia,Southeast Asia,Same Day,31,13,0.42,0.0,0.42,41.94
+2016-01,Pacific Asia,Southeast Asia,Second Class,114,89,3.98,2.0,1.98,78.07
+2016-01,Pacific Asia,Southeast Asia,Standard Class,331,149,4.11,4.0,0.71,45.02
+2016-02,Pacific Asia,Eastern Asia,First Class,55,55,2.0,1.0,1.0,100.0
+2016-02,Pacific Asia,Eastern Asia,Same Day,24,11,0.46,0.0,0.46,45.83
+2016-02,Pacific Asia,Eastern Asia,Second Class,66,60,4.17,2.0,2.17,90.91
+2016-02,Pacific Asia,Eastern Asia,Standard Class,266,110,4.06,4.0,0.64,41.35
+2016-02,Pacific Asia,Oceania,First Class,32,32,2.0,1.0,1.0,100.0
+2016-02,Pacific Asia,Oceania,Same Day,24,7,0.29,0.0,0.29,29.17
+2016-02,Pacific Asia,Oceania,Second Class,67,56,4.12,2.0,2.12,83.58
+2016-02,Pacific Asia,Oceania,Standard Class,240,109,4.15,4.0,0.68,45.42
+2016-02,Pacific Asia,South Asia,First Class,63,63,2.0,1.0,1.0,100.0
+2016-02,Pacific Asia,South Asia,Same Day,13,7,0.54,0.0,0.54,53.85
+2016-02,Pacific Asia,South Asia,Second Class,68,50,3.79,2.0,1.79,73.53
+2016-02,Pacific Asia,South Asia,Standard Class,209,80,3.94,4.0,0.57,38.28
+2016-02,Pacific Asia,Southeast Asia,First Class,66,66,2.0,1.0,1.0,100.0
+2016-02,Pacific Asia,Southeast Asia,Same Day,18,1,0.06,0.0,0.06,5.56
+2016-02,Pacific Asia,Southeast Asia,Second Class,90,67,3.94,2.0,1.94,74.44
+2016-02,Pacific Asia,Southeast Asia,Standard Class,273,119,4.14,4.0,0.66,43.59
+2016-03,Pacific Asia,Eastern Asia,First Class,41,41,2.0,1.0,1.0,100.0
+2016-03,Pacific Asia,Eastern Asia,Same Day,7,2,0.29,0.0,0.29,28.57
+2016-03,Pacific Asia,Eastern Asia,Second Class,25,21,4.24,2.0,2.24,84.0
+2016-03,Pacific Asia,Eastern Asia,Standard Class,120,43,3.87,4.0,0.57,35.83
+2016-03,Pacific Asia,Oceania,First Class,130,130,2.0,1.0,1.0,100.0
+2016-03,Pacific Asia,Oceania,Same Day,50,28,0.56,0.0,0.56,56.0
+2016-03,Pacific Asia,Oceania,Second Class,216,175,3.98,2.0,1.98,81.02
+2016-03,Pacific Asia,Oceania,Standard Class,608,248,4.03,4.0,0.62,40.79
+2016-03,Pacific Asia,South Asia,First Class,33,33,2.0,1.0,1.0,100.0
+2016-03,Pacific Asia,South Asia,Same Day,17,7,0.41,0.0,0.41,41.18
+2016-03,Pacific Asia,South Asia,Second Class,39,33,4.41,2.0,2.41,84.62
+2016-03,Pacific Asia,South Asia,Standard Class,94,43,4.12,4.0,0.7,45.74
+2016-03,Pacific Asia,Southeast Asia,First Class,74,74,2.0,1.0,1.0,100.0
+2016-03,Pacific Asia,Southeast Asia,Same Day,15,9,0.6,0.0,0.6,60.0
+2016-03,Pacific Asia,Southeast Asia,Second Class,43,33,3.91,2.0,1.91,76.74
+2016-03,Pacific Asia,Southeast Asia,Standard Class,188,67,3.84,4.0,0.52,35.64
+2016-04,Pacific Asia,Oceania,First Class,6,6,2.0,1.0,1.0,100.0
+2016-04,Pacific Asia,Oceania,Same Day,2,1,0.5,0.0,0.5,50.0
+2016-04,Pacific Asia,Oceania,Second Class,16,14,4.06,2.0,2.06,87.5
+2016-04,Pacific Asia,Oceania,Standard Class,21,7,3.9,4.0,0.57,33.33
+2016-04,Pacific Asia,Southeast Asia,Second Class,2,1,4.0,2.0,2.0,50.0
+2016-04,USCA,East of USA,First Class,86,86,2.0,1.0,1.0,100.0
+2016-04,USCA,East of USA,Same Day,25,14,0.56,0.0,0.56,56.0
+2016-04,USCA,East of USA,Second Class,93,71,3.89,2.0,1.89,76.34
+2016-04,USCA,East of USA,Standard Class,282,113,4.04,4.0,0.59,40.07
+2016-04,USCA,South of  USA,First Class,28,28,2.0,1.0,1.0,100.0
+2016-04,USCA,South of  USA,Same Day,14,1,0.07,0.0,0.07,7.14
+2016-04,USCA,South of  USA,Second Class,55,40,3.69,2.0,1.69,72.73
+2016-04,USCA,South of  USA,Standard Class,128,49,3.87,4.0,0.55,38.28
+2016-04,USCA,US Center,First Class,60,60,2.0,1.0,1.0,100.0
+2016-04,USCA,US Center,Same Day,18,5,0.28,0.0,0.28,27.78
+2016-04,USCA,US Center,Second Class,77,67,4.17,2.0,2.17,87.01
+2016-04,USCA,US Center,Standard Class,224,84,3.93,4.0,0.56,37.5
+2016-04,USCA,West of USA,First Class,68,68,2.0,1.0,1.0,100.0
+2016-04,USCA,West of USA,Same Day,23,16,0.7,0.0,0.7,69.57
+2016-04,USCA,West of USA,Second Class,90,72,4.11,2.0,2.11,80.0
+2016-04,USCA,West of USA,Standard Class,312,122,3.99,4.0,0.59,39.1
+2016-05,USCA,East of USA,First Class,72,72,2.0,1.0,1.0,100.0
+2016-05,USCA,East of USA,Same Day,26,12,0.46,0.0,0.46,46.15
+2016-05,USCA,East of USA,Second Class,89,75,3.98,2.0,1.98,84.27
+2016-05,USCA,East of USA,Standard Class,271,113,4.11,4.0,0.63,41.7
+2016-05,USCA,South of  USA,First Class,51,51,2.0,1.0,1.0,100.0
+2016-05,USCA,South of  USA,Same Day,24,7,0.29,0.0,0.29,29.17
+2016-05,USCA,South of  USA,Second Class,47,40,4.02,2.0,2.02,85.11
+2016-05,USCA,South of  USA,Standard Class,166,68,3.98,4.0,0.65,40.96
+2016-05,USCA,US Center,First Class,65,65,2.0,1.0,1.0,100.0
+2016-05,USCA,US Center,Same Day,18,4,0.22,0.0,0.22,22.22
+2016-05,USCA,US Center,Second Class,79,66,4.04,2.0,2.04,83.54
+2016-05,USCA,US Center,Standard Class,224,91,4.01,4.0,0.57,40.63
+2016-05,USCA,West of USA,First Class,73,73,2.0,1.0,1.0,100.0
+2016-05,USCA,West of USA,Same Day,29,14,0.48,0.0,0.48,48.28
+2016-05,USCA,West of USA,Second Class,123,95,3.96,2.0,1.96,77.24
+2016-05,USCA,West of USA,Standard Class,318,125,4.0,4.0,0.58,39.31
+2016-06,USCA,East of USA,First Class,66,66,2.0,1.0,1.0,100.0
+2016-06,USCA,East of USA,Same Day,31,13,0.42,0.0,0.42,41.94
+2016-06,USCA,East of USA,Second Class,83,62,3.92,2.0,1.92,74.7
+2016-06,USCA,East of USA,Standard Class,255,117,4.17,4.0,0.7,45.88
+2016-06,USCA,South of  USA,First Class,36,36,2.0,1.0,1.0,100.0
+2016-06,USCA,South of  USA,Same Day,13,9,0.69,0.0,0.69,69.23
+2016-06,USCA,South of  USA,Second Class,54,49,4.46,2.0,2.46,90.74
+2016-06,USCA,South of  USA,Standard Class,145,65,4.13,4.0,0.67,44.83
+2016-06,USCA,US Center,First Class,58,58,2.0,1.0,1.0,100.0
+2016-06,USCA,US Center,Same Day,10,7,0.7,0.0,0.7,70.0
+2016-06,USCA,US Center,Second Class,85,65,3.86,2.0,1.86,76.47
+2016-06,USCA,US Center,Standard Class,230,89,4.03,4.0,0.58,38.7
+2016-06,USCA,West of USA,First Class,81,81,2.0,1.0,1.0,100.0
+2016-06,USCA,West of USA,Same Day,30,18,0.6,0.0,0.6,60.0
+2016-06,USCA,West of USA,Second Class,128,105,3.94,2.0,1.94,82.03
+2016-06,USCA,West of USA,Standard Class,312,128,4.01,4.0,0.6,41.03
+2016-07,USCA,East of USA,First Class,60,60,2.0,1.0,1.0,100.0
+2016-07,USCA,East of USA,Same Day,27,14,0.52,0.0,0.52,51.85
+2016-07,USCA,East of USA,Second Class,75,59,4.04,2.0,2.04,78.67
+2016-07,USCA,East of USA,Standard Class,289,101,3.89,4.0,0.54,34.95
+2016-07,USCA,South of  USA,First Class,54,54,2.0,1.0,1.0,100.0
+2016-07,USCA,South of  USA,Same Day,13,6,0.46,0.0,0.46,46.15
+2016-07,USCA,South of  USA,Second Class,65,55,4.17,2.0,2.17,84.62
+2016-07,USCA,South of  USA,Standard Class,174,78,4.09,4.0,0.67,44.83
+2016-07,USCA,US Center,First Class,58,58,2.0,1.0,1.0,100.0
+2016-07,USCA,US Center,Same Day,25,5,0.2,0.0,0.2,20.0
+2016-07,USCA,US Center,Second Class,67,50,3.78,2.0,1.78,74.63
+2016-07,USCA,US Center,Standard Class,213,79,3.93,4.0,0.55,37.09
+2016-07,USCA,West of USA,First Class,92,92,2.0,1.0,1.0,100.0
+2016-07,USCA,West of USA,Same Day,34,12,0.35,0.0,0.35,35.29
+2016-07,USCA,West of USA,Second Class,84,66,4.19,2.0,2.19,78.57
+2016-07,USCA,West of USA,Standard Class,332,133,3.97,4.0,0.61,40.06
+2016-08,Africa,Central Africa,Second Class,4,4,4.75,2.0,2.75,100.0
+2016-08,Africa,Central Africa,Standard Class,10,4,3.9,4.0,0.5,40.0
+2016-08,Africa,East Africa,First Class,3,3,2.0,1.0,1.0,100.0
+2016-08,Africa,East Africa,Same Day,1,0,0.0,0.0,0.0,0.0
+2016-08,Africa,East Africa,Second Class,3,2,3.67,2.0,1.67,66.67
+2016-08,Africa,East Africa,Standard Class,15,7,4.13,4.0,0.67,46.67
+2016-08,Africa,North Africa,First Class,7,7,2.0,1.0,1.0,100.0
+2016-08,Africa,North Africa,Same Day,1,1,1.0,0.0,1.0,100.0
+2016-08,Africa,North Africa,Second Class,11,10,4.36,2.0,2.36,90.91
+2016-08,Africa,North Africa,Standard Class,33,11,3.94,4.0,0.48,33.33
+2016-08,Africa,Southern Africa,First Class,1,1,2.0,1.0,1.0,100.0
+2016-08,Africa,Southern Africa,Same Day,1,0,0.0,0.0,0.0,0.0
+2016-08,Africa,Southern Africa,Second Class,3,3,3.33,2.0,1.33,100.0
+2016-08,Africa,Southern Africa,Standard Class,24,10,4.0,4.0,0.63,41.67
+2016-08,Africa,West Africa,First Class,3,3,2.0,1.0,1.0,100.0
+2016-08,Africa,West Africa,Same Day,2,2,1.0,0.0,1.0,100.0
+2016-08,Africa,West Africa,Second Class,10,8,4.0,2.0,2.0,80.0
+2016-08,Africa,West Africa,Standard Class,25,12,4.04,4.0,0.6,48.0
+2016-08,Europe,Eastern Europe,First Class,6,6,2.0,1.0,1.0,100.0
+2016-08,Europe,Eastern Europe,Second Class,8,6,3.88,2.0,1.88,75.0
+2016-08,Europe,Eastern Europe,Standard Class,20,4,3.45,4.0,0.35,20.0
+2016-08,Europe,Northern Europe,First Class,1,1,2.0,1.0,1.0,100.0
+2016-08,Europe,Northern Europe,Standard Class,2,0,2.5,4.0,0.0,0.0
+2016-08,Europe,Southern Europe,Standard Class,1,1,5.0,4.0,1.0,100.0
+2016-08,Europe,Western Europe,Standard Class,2,0,3.5,4.0,0.0,0.0
+2016-08,Pacific Asia,Central Asia,First Class,1,1,2.0,1.0,1.0,100.0
+2016-08,Pacific Asia,Central Asia,Second Class,1,1,6.0,2.0,4.0,100.0
+2016-08,Pacific Asia,South Asia,First Class,7,7,2.0,1.0,1.0,100.0
+2016-08,Pacific Asia,South Asia,Second Class,3,3,4.67,2.0,2.67,100.0
+2016-08,Pacific Asia,South Asia,Standard Class,19,4,3.74,4.0,0.26,21.05
+2016-08,Pacific Asia,West Asia,First Class,17,17,2.0,1.0,1.0,100.0
+2016-08,Pacific Asia,West Asia,Same Day,4,3,0.75,0.0,0.75,75.0
+2016-08,Pacific Asia,West Asia,Second Class,22,17,3.86,2.0,1.86,77.27
+2016-08,Pacific Asia,West Asia,Standard Class,66,27,4.02,4.0,0.65,40.91
+2016-08,USCA,Canada,First Class,2,2,2.0,1.0,1.0,100.0
+2016-08,USCA,Canada,Standard Class,9,1,3.0,4.0,0.11,11.11
+2016-08,USCA,East of USA,First Class,58,58,2.0,1.0,1.0,100.0
+2016-08,USCA,East of USA,Same Day,23,12,0.52,0.0,0.52,52.17
+2016-08,USCA,East of USA,Second Class,73,58,4.19,2.0,2.19,79.45
+2016-08,USCA,East of USA,Standard Class,235,100,4.03,4.0,0.65,42.55
+2016-08,USCA,South of  USA,First Class,18,18,2.0,1.0,1.0,100.0
+2016-08,USCA,South of  USA,Same Day,15,8,0.53,0.0,0.53,53.33
+2016-08,USCA,South of  USA,Second Class,50,42,4.0,2.0,2.0,84.0
+2016-08,USCA,South of  USA,Standard Class,130,49,3.96,4.0,0.58,37.69
+2016-08,USCA,US Center,First Class,73,73,2.0,1.0,1.0,100.0
+2016-08,USCA,US Center,Same Day,19,14,0.74,0.0,0.74,73.68
+2016-08,USCA,US Center,Second Class,67,49,3.78,2.0,1.78,73.13
+2016-08,USCA,US Center,Standard Class,182,82,4.13,4.0,0.63,45.05
+2016-08,USCA,West of USA,First Class,62,62,2.0,1.0,1.0,100.0
+2016-08,USCA,West of USA,Same Day,19,10,0.53,0.0,0.53,52.63
+2016-08,USCA,West of USA,Second Class,79,64,3.82,2.0,1.82,81.01
+2016-08,USCA,West of USA,Standard Class,247,95,3.95,4.0,0.59,38.46
+2016-09,Africa,Central Africa,First Class,20,20,2.0,1.0,1.0,100.0
+2016-09,Africa,Central Africa,Same Day,7,4,0.57,0.0,0.57,57.14
+2016-09,Africa,Central Africa,Second Class,24,20,4.38,2.0,2.38,83.33
+2016-09,Africa,Central Africa,Standard Class,68,30,4.06,4.0,0.65,44.12
+2016-09,Africa,East Africa,First Class,14,14,2.0,1.0,1.0,100.0
+2016-09,Africa,East Africa,Same Day,9,3,0.33,0.0,0.33,33.33
+2016-09,Africa,East Africa,Second Class,30,26,3.93,2.0,1.93,86.67
+2016-09,Africa,East Africa,Standard Class,83,29,3.88,4.0,0.54,34.94
+2016-09,Africa,North Africa,First Class,35,35,2.0,1.0,1.0,100.0
+2016-09,Africa,North Africa,Same Day,15,6,0.4,0.0,0.4,40.0
+2016-09,Africa,North Africa,Second Class,39,29,3.77,2.0,1.77,74.36
+2016-09,Africa,North Africa,Standard Class,145,58,3.97,4.0,0.62,40.0
+2016-09,Africa,Southern Africa,First Class,13,13,2.0,1.0,1.0,100.0
+2016-09,Africa,Southern Africa,Same Day,7,4,0.57,0.0,0.57,57.14
+2016-09,Africa,Southern Africa,Second Class,13,9,3.31,2.0,1.31,69.23
+2016-09,Africa,Southern Africa,Standard Class,57,20,3.88,4.0,0.58,35.09
+2016-09,Africa,West Africa,First Class,39,39,2.0,1.0,1.0,100.0
+2016-09,Africa,West Africa,Same Day,16,9,0.56,0.0,0.56,56.25
+2016-09,Africa,West Africa,Second Class,47,37,4.02,2.0,2.02,78.72
+2016-09,Africa,West Africa,Standard Class,155,55,3.92,4.0,0.52,35.48
+2016-09,Europe,Eastern Europe,First Class,41,41,2.0,1.0,1.0,100.0
+2016-09,Europe,Eastern Europe,Same Day,16,2,0.13,0.0,0.13,12.5
+2016-09,Europe,Eastern Europe,Second Class,42,35,4.31,2.0,2.31,83.33
+2016-09,Europe,Eastern Europe,Standard Class,149,72,4.25,4.0,0.75,48.32
+2016-09,Europe,Northern Europe,Same Day,1,0,0.0,0.0,0.0,0.0
+2016-09,Europe,Northern Europe,Second Class,3,1,2.33,2.0,0.33,33.33
+2016-09,Europe,Northern Europe,Standard Class,1,1,6.0,4.0,2.0,100.0
+2016-09,Europe,Southern Europe,First Class,8,8,2.0,1.0,1.0,100.0
+2016-09,Europe,Southern Europe,Same Day,1,1,1.0,0.0,1.0,100.0
+2016-09,Europe,Southern Europe,Second Class,2,2,4.5,2.0,2.5,100.0
+2016-09,Europe,Southern Europe,Standard Class,4,2,4.25,4.0,0.5,50.0
+2016-09,Europe,Western Europe,First Class,5,5,2.0,1.0,1.0,100.0
+2016-09,Europe,Western Europe,Second Class,1,1,3.0,2.0,1.0,100.0
+2016-09,Europe,Western Europe,Standard Class,3,2,4.33,4.0,1.0,66.67
+2016-09,Pacific Asia,Central Asia,First Class,2,2,2.0,1.0,1.0,100.0
+2016-09,Pacific Asia,Central Asia,Same Day,3,0,0.0,0.0,0.0,0.0
+2016-09,Pacific Asia,Central Asia,Second Class,7,6,4.14,2.0,2.14,85.71
+2016-09,Pacific Asia,Central Asia,Standard Class,31,7,3.48,4.0,0.39,22.58
+2016-09,Pacific Asia,Eastern Asia,Second Class,1,1,6.0,2.0,4.0,100.0
+2016-09,Pacific Asia,Eastern Asia,Standard Class,5,2,4.0,4.0,0.6,40.0
+2016-09,Pacific Asia,South Asia,First Class,17,17,2.0,1.0,1.0,100.0
+2016-09,Pacific Asia,South Asia,Same Day,3,2,0.67,0.0,0.67,66.67
+2016-09,Pacific Asia,South Asia,Second Class,13,11,4.46,2.0,2.46,84.62
+2016-09,Pacific Asia,South Asia,Standard Class,59,24,3.97,4.0,0.61,40.68
+2016-09,Pacific Asia,West Asia,First Class,53,53,2.0,1.0,1.0,100.0
+2016-09,Pacific Asia,West Asia,Same Day,15,8,0.53,0.0,0.53,53.33
+2016-09,Pacific Asia,West Asia,Second Class,78,63,3.95,2.0,1.95,80.77
+2016-09,Pacific Asia,West Asia,Standard Class,209,85,4.06,4.0,0.59,40.67
+2016-09,USCA,Canada,First Class,18,18,2.0,1.0,1.0,100.0
+2016-09,USCA,Canada,Same Day,2,0,0.0,0.0,0.0,0.0
+2016-09,USCA,Canada,Second Class,8,5,3.75,2.0,1.75,62.5
+2016-09,USCA,Canada,Standard Class,27,12,4.22,4.0,0.74,44.44
+2016-10,Africa,Central Africa,First Class,21,21,2.0,1.0,1.0,100.0
+2016-10,Africa,Central Africa,Same Day,11,3,0.27,0.0,0.27,27.27
+2016-10,Africa,Central Africa,Second Class,16,12,3.69,2.0,1.69,75.0
+2016-10,Africa,Central Africa,Standard Class,65,28,4.11,4.0,0.66,43.08
+2016-10,Africa,East Africa,First Class,21,21,2.0,1.0,1.0,100.0
+2016-10,Africa,East Africa,Same Day,9,7,0.78,0.0,0.78,77.78
+2016-10,Africa,East Africa,Second Class,21,17,4.14,2.0,2.14,80.95
+2016-10,Africa,East Africa,Standard Class,54,22,4.0,4.0,0.59,40.74
+2016-10,Africa,North Africa,First Class,20,20,2.0,1.0,1.0,100.0
+2016-10,Africa,North Africa,Same Day,15,9,0.6,0.0,0.6,60.0
+2016-10,Africa,North Africa,Second Class,35,26,3.69,2.0,1.69,74.29
+2016-10,Africa,North Africa,Standard Class,128,48,4.06,4.0,0.58,37.5
+2016-10,Africa,Southern Africa,First Class,13,13,2.0,1.0,1.0,100.0
+2016-10,Africa,Southern Africa,Same Day,3,1,0.33,0.0,0.33,33.33
+2016-10,Africa,Southern Africa,Second Class,10,7,4.3,2.0,2.3,70.0
+2016-10,Africa,Southern Africa,Standard Class,44,16,3.91,4.0,0.57,36.36
+2016-10,Africa,West Africa,First Class,34,34,2.0,1.0,1.0,100.0
+2016-10,Africa,West Africa,Same Day,21,11,0.52,0.0,0.52,52.38
+2016-10,Africa,West Africa,Second Class,52,39,3.63,2.0,1.63,75.0
+2016-10,Africa,West Africa,Standard Class,159,58,3.92,4.0,0.54,36.48
+2016-10,Europe,Eastern Europe,First Class,45,45,2.0,1.0,1.0,100.0
+2016-10,Europe,Eastern Europe,Same Day,8,3,0.38,0.0,0.38,37.5
+2016-10,Europe,Eastern Europe,Second Class,57,39,3.74,2.0,1.74,68.42
+2016-10,Europe,Eastern Europe,Standard Class,163,73,4.05,4.0,0.68,44.79
+2016-10,Europe,Northern Europe,First Class,3,3,2.0,1.0,1.0,100.0
+2016-10,Europe,Northern Europe,Same Day,2,2,1.0,0.0,1.0,100.0
+2016-10,Europe,Northern Europe,Standard Class,4,3,4.75,4.0,1.25,75.0
+2016-10,Europe,Southern Europe,First Class,2,2,2.0,1.0,1.0,100.0
+2016-10,Europe,Southern Europe,Second Class,2,2,4.5,2.0,2.5,100.0
+2016-10,Europe,Southern Europe,Standard Class,5,2,3.6,4.0,0.4,40.0
+2016-10,Europe,Western Europe,First Class,2,2,2.0,1.0,1.0,100.0
+2016-10,Europe,Western Europe,Second Class,1,1,5.0,2.0,3.0,100.0
+2016-10,Europe,Western Europe,Standard Class,7,1,3.43,4.0,0.14,14.29
+2016-10,Pacific Asia,Central Asia,First Class,3,3,2.0,1.0,1.0,100.0
+2016-10,Pacific Asia,Central Asia,Same Day,6,1,0.17,0.0,0.17,16.67
+2016-10,Pacific Asia,Central Asia,Second Class,7,7,4.86,2.0,2.86,100.0
+2016-10,Pacific Asia,Central Asia,Standard Class,26,11,4.19,4.0,0.65,42.31
+2016-10,Pacific Asia,Eastern Asia,First Class,1,1,2.0,1.0,1.0,100.0
+2016-10,Pacific Asia,Eastern Asia,Second Class,4,4,5.0,2.0,3.0,100.0
+2016-10,Pacific Asia,Eastern Asia,Standard Class,1,0,4.0,4.0,0.0,0.0
+2016-10,Pacific Asia,South Asia,First Class,20,20,2.0,1.0,1.0,100.0
+2016-10,Pacific Asia,South Asia,Same Day,10,2,0.2,0.0,0.2,20.0
+2016-10,Pacific Asia,South Asia,Second Class,22,20,4.55,2.0,2.55,90.91
+2016-10,Pacific Asia,South Asia,Standard Class,71,30,4.06,4.0,0.62,42.25
+2016-10,Pacific Asia,West Asia,First Class,82,82,2.0,1.0,1.0,100.0
+2016-10,Pacific Asia,West Asia,Same Day,21,6,0.29,0.0,0.29,28.57
+2016-10,Pacific Asia,West Asia,Second Class,96,77,3.88,2.0,1.88,80.21
+2016-10,Pacific Asia,West Asia,Standard Class,225,98,4.08,4.0,0.65,43.56
+2016-10,USCA,Canada,First Class,7,7,2.0,1.0,1.0,100.0
+2016-10,USCA,Canada,Same Day,2,1,0.5,0.0,0.5,50.0
+2016-10,USCA,Canada,Second Class,10,5,3.1,2.0,1.1,50.0
+2016-10,USCA,Canada,Standard Class,36,10,3.72,4.0,0.44,27.78
+2016-11,Africa,Central Africa,First Class,21,21,2.0,1.0,1.0,100.0
+2016-11,Africa,Central Africa,Same Day,4,0,0.0,0.0,0.0,0.0
+2016-11,Africa,Central Africa,Second Class,22,20,4.55,2.0,2.55,90.91
+2016-11,Africa,Central Africa,Standard Class,92,43,4.14,4.0,0.7,46.74
+2016-11,Africa,East Africa,First Class,16,16,2.0,1.0,1.0,100.0
+2016-11,Africa,East Africa,Same Day,8,4,0.5,0.0,0.5,50.0
+2016-11,Africa,East Africa,Second Class,22,17,4.14,2.0,2.14,77.27
+2016-11,Africa,East Africa,Standard Class,70,30,4.04,4.0,0.63,42.86
+2016-11,Africa,North Africa,First Class,46,46,2.0,1.0,1.0,100.0
+2016-11,Africa,North Africa,Same Day,13,6,0.46,0.0,0.46,46.15
+2016-11,Africa,North Africa,Second Class,51,47,4.27,2.0,2.27,92.16
+2016-11,Africa,North Africa,Standard Class,115,39,3.85,4.0,0.53,33.91
+2016-11,Africa,Southern Africa,First Class,6,6,2.0,1.0,1.0,100.0
+2016-11,Africa,Southern Africa,Same Day,2,2,1.0,0.0,1.0,100.0
+2016-11,Africa,Southern Africa,Second Class,13,12,4.23,2.0,2.23,92.31
+2016-11,Africa,Southern Africa,Standard Class,49,22,4.16,4.0,0.71,44.9
+2016-11,Africa,West Africa,First Class,26,26,2.0,1.0,1.0,100.0
+2016-11,Africa,West Africa,Same Day,14,3,0.21,0.0,0.21,21.43
+2016-11,Africa,West Africa,Second Class,40,32,4.23,2.0,2.23,80.0
+2016-11,Africa,West Africa,Standard Class,131,45,3.82,4.0,0.51,34.35
+2016-11,Europe,Eastern Europe,First Class,42,42,2.0,1.0,1.0,100.0
+2016-11,Europe,Eastern Europe,Same Day,13,6,0.46,0.0,0.46,46.15
+2016-11,Europe,Eastern Europe,Second Class,59,47,3.97,2.0,1.97,79.66
+2016-11,Europe,Eastern Europe,Standard Class,166,64,3.96,4.0,0.61,38.55
+2016-11,Europe,Northern Europe,Same Day,1,0,0.0,0.0,0.0,0.0
+2016-11,Europe,Northern Europe,Second Class,1,1,6.0,2.0,4.0,100.0
+2016-11,Europe,Northern Europe,Standard Class,3,3,5.67,4.0,1.67,100.0
+2016-11,Europe,Southern Europe,Same Day,1,0,0.0,0.0,0.0,0.0
+2016-11,Europe,Southern Europe,Second Class,1,0,2.0,2.0,0.0,0.0
+2016-11,Europe,Southern Europe,Standard Class,11,5,4.0,4.0,0.73,45.45
+2016-11,Europe,Western Europe,Second Class,3,2,4.33,2.0,2.33,66.67
+2016-11,Europe,Western Europe,Standard Class,9,3,4.0,4.0,0.56,33.33
+2016-11,Pacific Asia,Central Asia,First Class,4,4,2.0,1.0,1.0,100.0
+2016-11,Pacific Asia,Central Asia,Same Day,3,2,0.67,0.0,0.67,66.67
+2016-11,Pacific Asia,Central Asia,Second Class,13,11,3.77,2.0,1.77,84.62
+2016-11,Pacific Asia,Central Asia,Standard Class,19,7,3.95,4.0,0.47,36.84
+2016-11,Pacific Asia,Eastern Asia,First Class,3,3,2.0,1.0,1.0,100.0
+2016-11,Pacific Asia,Eastern Asia,Second Class,3,2,3.0,2.0,1.0,66.67
+2016-11,Pacific Asia,Eastern Asia,Standard Class,1,0,4.0,4.0,0.0,0.0
+2016-11,Pacific Asia,South Asia,First Class,12,12,2.0,1.0,1.0,100.0
+2016-11,Pacific Asia,South Asia,Same Day,3,2,0.67,0.0,0.67,66.67
+2016-11,Pacific Asia,South Asia,Second Class,25,19,3.92,2.0,1.92,76.0
+2016-11,Pacific Asia,South Asia,Standard Class,60,28,4.12,4.0,0.67,46.67
+2016-11,Pacific Asia,West Asia,First Class,52,52,2.0,1.0,1.0,100.0
+2016-11,Pacific Asia,West Asia,Same Day,19,12,0.63,0.0,0.63,63.16
+2016-11,Pacific Asia,West Asia,Second Class,57,44,3.84,2.0,1.84,77.19
+2016-11,Pacific Asia,West Asia,Standard Class,229,87,3.94,4.0,0.58,37.99
+2016-11,USCA,Canada,First Class,10,10,2.0,1.0,1.0,100.0
+2016-11,USCA,Canada,Same Day,2,0,0.0,0.0,0.0,0.0
+2016-11,USCA,Canada,Second Class,20,18,4.6,2.0,2.6,90.0
+2016-11,USCA,Canada,Standard Class,33,12,3.88,4.0,0.58,36.36
+2016-12,Africa,Central Africa,First Class,19,19,2.0,1.0,1.0,100.0
+2016-12,Africa,Central Africa,Same Day,5,0,0.0,0.0,0.0,0.0
+2016-12,Africa,Central Africa,Second Class,20,16,3.75,2.0,1.75,80.0
+2016-12,Africa,Central Africa,Standard Class,58,28,4.16,4.0,0.71,48.28
+2016-12,Africa,East Africa,First Class,29,29,2.0,1.0,1.0,100.0
+2016-12,Africa,East Africa,Same Day,6,1,0.17,0.0,0.17,16.67
+2016-12,Africa,East Africa,Second Class,23,20,3.96,2.0,1.96,86.96
+2016-12,Africa,East Africa,Standard Class,85,45,4.28,4.0,0.82,52.94
+2016-12,Africa,North Africa,First Class,31,31,2.0,1.0,1.0,100.0
+2016-12,Africa,North Africa,Same Day,18,13,0.72,0.0,0.72,72.22
+2016-12,Africa,North Africa,Second Class,36,30,4.17,2.0,2.17,83.33
+2016-12,Africa,North Africa,Standard Class,111,48,3.98,4.0,0.62,43.24
+2016-12,Africa,Southern Africa,First Class,27,27,2.0,1.0,1.0,100.0
+2016-12,Africa,Southern Africa,Same Day,3,3,1.0,0.0,1.0,100.0
+2016-12,Africa,Southern Africa,Second Class,8,6,4.5,2.0,2.5,75.0
+2016-12,Africa,Southern Africa,Standard Class,49,22,4.27,4.0,0.67,44.9
+2016-12,Africa,West Africa,First Class,28,28,2.0,1.0,1.0,100.0
+2016-12,Africa,West Africa,Same Day,11,5,0.45,0.0,0.45,45.45
+2016-12,Africa,West Africa,Second Class,55,44,4.05,2.0,2.05,80.0
+2016-12,Africa,West Africa,Standard Class,166,67,4.08,4.0,0.59,40.36
+2016-12,Europe,Eastern Europe,First Class,46,46,2.0,1.0,1.0,100.0
+2016-12,Europe,Eastern Europe,Same Day,12,5,0.42,0.0,0.42,41.67
+2016-12,Europe,Eastern Europe,Second Class,56,47,3.88,2.0,1.88,83.93
+2016-12,Europe,Eastern Europe,Standard Class,146,50,3.9,4.0,0.51,34.25
+2016-12,Europe,Northern Europe,First Class,2,2,2.0,1.0,1.0,100.0
+2016-12,Europe,Northern Europe,Second Class,2,2,5.0,2.0,3.0,100.0
+2016-12,Europe,Northern Europe,Standard Class,7,2,3.43,4.0,0.43,28.57
+2016-12,Europe,Southern Europe,First Class,1,1,2.0,1.0,1.0,100.0
+2016-12,Europe,Southern Europe,Same Day,3,1,0.33,0.0,0.33,33.33
+2016-12,Europe,Southern Europe,Second Class,1,1,5.0,2.0,3.0,100.0
+2016-12,Europe,Southern Europe,Standard Class,7,1,3.29,4.0,0.29,14.29
+2016-12,Europe,Western Europe,First Class,2,2,2.0,1.0,1.0,100.0
+2016-12,Europe,Western Europe,Same Day,3,2,0.67,0.0,0.67,66.67
+2016-12,Europe,Western Europe,Standard Class,9,3,3.56,4.0,0.44,33.33
+2016-12,Pacific Asia,Central Asia,First Class,4,4,2.0,1.0,1.0,100.0
+2016-12,Pacific Asia,Central Asia,Same Day,1,0,0.0,0.0,0.0,0.0
+2016-12,Pacific Asia,Central Asia,Second Class,9,7,3.67,2.0,1.67,77.78
+2016-12,Pacific Asia,Central Asia,Standard Class,16,11,4.5,4.0,1.06,68.75
+2016-12,Pacific Asia,Eastern Asia,Second Class,1,1,5.0,2.0,3.0,100.0
+2016-12,Pacific Asia,Eastern Asia,Standard Class,3,0,3.0,4.0,0.0,0.0
+2016-12,Pacific Asia,South Asia,First Class,11,11,2.0,1.0,1.0,100.0
+2016-12,Pacific Asia,South Asia,Same Day,2,1,0.5,0.0,0.5,50.0
+2016-12,Pacific Asia,South Asia,Second Class,14,8,3.43,2.0,1.43,57.14
+2016-12,Pacific Asia,South Asia,Standard Class,58,26,4.21,4.0,0.69,44.83
+2016-12,Pacific Asia,West Asia,First Class,79,79,2.0,1.0,1.0,100.0
+2016-12,Pacific Asia,West Asia,Same Day,22,9,0.41,0.0,0.41,40.91
+2016-12,Pacific Asia,West Asia,Second Class,76,62,3.99,2.0,1.99,81.58
+2016-12,Pacific Asia,West Asia,Standard Class,242,90,3.9,4.0,0.54,37.19
+2016-12,USCA,Canada,First Class,15,15,2.0,1.0,1.0,100.0
+2016-12,USCA,Canada,Same Day,1,1,1.0,0.0,1.0,100.0
+2016-12,USCA,Canada,Second Class,4,4,5.0,2.0,3.0,100.0
+2016-12,USCA,Canada,Standard Class,47,14,3.7,4.0,0.47,29.79
+2017-01,Africa,Central Africa,First Class,8,8,2.0,1.0,1.0,100.0
+2017-01,Africa,Central Africa,Same Day,2,1,0.5,0.0,0.5,50.0
+2017-01,Africa,Central Africa,Second Class,11,10,4.0,2.0,2.0,90.91
+2017-01,Africa,Central Africa,Standard Class,25,8,3.88,4.0,0.52,32.0
+2017-01,Africa,East Africa,First Class,11,11,2.0,1.0,1.0,100.0
+2017-01,Africa,East Africa,Same Day,2,0,0.0,0.0,0.0,0.0
+2017-01,Africa,East Africa,Second Class,15,11,3.73,2.0,1.73,73.33
+2017-01,Africa,East Africa,Standard Class,39,13,3.9,4.0,0.44,33.33
+2017-01,Africa,North Africa,First Class,11,11,2.0,1.0,1.0,100.0
+2017-01,Africa,North Africa,Same Day,3,0,0.0,0.0,0.0,0.0
+2017-01,Africa,North Africa,Second Class,23,17,3.65,2.0,1.65,73.91
+2017-01,Africa,North Africa,Standard Class,71,30,4.06,4.0,0.65,42.25
+2017-01,Africa,Southern Africa,First Class,4,4,2.0,1.0,1.0,100.0
+2017-01,Africa,Southern Africa,Same Day,4,4,1.0,0.0,1.0,100.0
+2017-01,Africa,Southern Africa,Second Class,4,2,2.75,2.0,0.75,50.0
+2017-01,Africa,Southern Africa,Standard Class,22,7,3.77,4.0,0.55,31.82
+2017-01,Africa,West Africa,First Class,9,9,2.0,1.0,1.0,100.0
+2017-01,Africa,West Africa,Same Day,10,3,0.3,0.0,0.3,30.0
+2017-01,Africa,West Africa,Second Class,24,18,3.79,2.0,1.79,75.0
+2017-01,Africa,West Africa,Standard Class,97,39,4.09,4.0,0.61,40.21
+2017-01,Europe,Eastern Europe,First Class,22,22,2.0,1.0,1.0,100.0
+2017-01,Europe,Eastern Europe,Same Day,5,4,0.8,0.0,0.8,80.0
+2017-01,Europe,Eastern Europe,Second Class,34,27,3.94,2.0,1.94,79.41
+2017-01,Europe,Eastern Europe,Standard Class,90,37,4.07,4.0,0.62,41.11
+2017-01,Europe,Northern Europe,First Class,2,2,2.0,1.0,1.0,100.0
+2017-01,Europe,Northern Europe,Same Day,2,1,0.5,0.0,0.5,50.0
+2017-01,Europe,Northern Europe,Second Class,3,2,3.67,2.0,1.67,66.67
+2017-01,Europe,Northern Europe,Standard Class,10,5,4.2,4.0,0.8,50.0
+2017-01,Europe,Southern Europe,First Class,4,4,2.0,1.0,1.0,100.0
+2017-01,Europe,Southern Europe,Second Class,3,3,4.67,2.0,2.67,100.0
+2017-01,Europe,Southern Europe,Standard Class,6,2,4.17,4.0,0.5,33.33
+2017-01,Europe,Western Europe,Standard Class,2,1,5.0,4.0,1.0,50.0
+2017-01,LATAM,Caribbean,First Class,10,10,2.0,1.0,1.0,100.0
+2017-01,LATAM,Caribbean,Same Day,9,5,0.56,0.0,0.56,55.56
+2017-01,LATAM,Caribbean,Second Class,21,16,4.1,2.0,2.1,76.19
+2017-01,LATAM,Caribbean,Standard Class,77,26,3.9,4.0,0.49,33.77
+2017-01,LATAM,Central America,First Class,61,61,2.0,1.0,1.0,100.0
+2017-01,LATAM,Central America,Same Day,11,7,0.64,0.0,0.64,63.64
+2017-01,LATAM,Central America,Second Class,70,59,4.01,2.0,2.01,84.29
+2017-01,LATAM,Central America,Standard Class,257,101,3.93,4.0,0.59,39.3
+2017-01,LATAM,South America,First Class,35,35,2.0,1.0,1.0,100.0
+2017-01,LATAM,South America,Same Day,12,6,0.5,0.0,0.5,50.0
+2017-01,LATAM,South America,Second Class,25,22,4.08,2.0,2.08,88.0
+2017-01,LATAM,South America,Standard Class,131,55,4.02,4.0,0.65,41.98
+2017-01,Pacific Asia,Central Asia,First Class,5,5,2.0,1.0,1.0,100.0
+2017-01,Pacific Asia,Central Asia,Same Day,3,0,0.0,0.0,0.0,0.0
+2017-01,Pacific Asia,Central Asia,Second Class,5,4,4.4,2.0,2.4,80.0
+2017-01,Pacific Asia,Central Asia,Standard Class,11,8,4.73,4.0,1.0,72.73
+2017-01,Pacific Asia,Eastern Asia,Same Day,2,0,0.0,0.0,0.0,0.0
+2017-01,Pacific Asia,Eastern Asia,Standard Class,1,1,6.0,4.0,2.0,100.0
+2017-01,Pacific Asia,South Asia,First Class,6,6,2.0,1.0,1.0,100.0
+2017-01,Pacific Asia,South Asia,Same Day,2,1,0.5,0.0,0.5,50.0
+2017-01,Pacific Asia,South Asia,Second Class,9,8,4.0,2.0,2.0,88.89
+2017-01,Pacific Asia,South Asia,Standard Class,35,9,3.6,4.0,0.34,25.71
+2017-01,Pacific Asia,West Asia,First Class,33,33,2.0,1.0,1.0,100.0
+2017-01,Pacific Asia,West Asia,Same Day,15,8,0.53,0.0,0.53,53.33
+2017-01,Pacific Asia,West Asia,Second Class,61,51,4.3,2.0,2.3,83.61
+2017-01,Pacific Asia,West Asia,Standard Class,162,69,4.04,4.0,0.63,42.59
+2017-01,USCA,Canada,First Class,1,1,2.0,1.0,1.0,100.0
+2017-01,USCA,Canada,Same Day,4,1,0.25,0.0,0.25,25.0
+2017-01,USCA,Canada,Second Class,9,7,3.56,2.0,1.56,77.78
+2017-01,USCA,Canada,Standard Class,24,9,3.92,4.0,0.58,37.5
+2017-02,LATAM,Caribbean,First Class,35,35,2.0,1.0,1.0,100.0
+2017-02,LATAM,Caribbean,Same Day,8,5,0.63,0.0,0.63,62.5
+2017-02,LATAM,Caribbean,Second Class,52,45,4.23,2.0,2.23,86.54
+2017-02,LATAM,Caribbean,Standard Class,154,59,3.98,4.0,0.54,38.31
+2017-02,LATAM,Central America,First Class,137,137,2.0,1.0,1.0,100.0
+2017-02,LATAM,Central America,Same Day,48,18,0.38,0.0,0.38,37.5
+2017-02,LATAM,Central America,Second Class,166,132,4.0,2.0,2.0,79.52
+2017-02,LATAM,Central America,Standard Class,487,205,4.04,4.0,0.64,42.09
+2017-02,LATAM,South America,First Class,61,61,2.0,1.0,1.0,100.0
+2017-02,LATAM,South America,Same Day,40,26,0.65,0.0,0.65,65.0
+2017-02,LATAM,South America,Second Class,87,60,3.93,2.0,1.93,68.97
+2017-02,LATAM,South America,Standard Class,263,96,3.93,4.0,0.56,36.5
+2017-03,LATAM,Caribbean,First Class,72,72,2.0,1.0,1.0,100.0
+2017-03,LATAM,Caribbean,Same Day,19,8,0.42,0.0,0.42,42.11
+2017-03,LATAM,Caribbean,Second Class,55,43,4.15,2.0,2.15,78.18
+2017-03,LATAM,Caribbean,Standard Class,176,55,3.81,4.0,0.46,31.25
+2017-03,LATAM,Central America,First Class,133,133,2.0,1.0,1.0,100.0
+2017-03,LATAM,Central America,Same Day,48,30,0.63,0.0,0.63,62.5
+2017-03,LATAM,Central America,Second Class,180,142,4.02,2.0,2.02,78.89
+2017-03,LATAM,Central America,Standard Class,567,228,4.0,4.0,0.59,40.21
+2017-03,LATAM,South America,First Class,77,77,2.0,1.0,1.0,100.0
+2017-03,LATAM,South America,Same Day,27,19,0.7,0.0,0.7,70.37
+2017-03,LATAM,South America,Second Class,88,71,3.89,2.0,1.89,80.68
+2017-03,LATAM,South America,Standard Class,268,106,3.99,4.0,0.59,39.55
+2017-04,LATAM,Caribbean,First Class,33,33,2.0,1.0,1.0,100.0
+2017-04,LATAM,Caribbean,Same Day,13,5,0.38,0.0,0.38,38.46
+2017-04,LATAM,Caribbean,Second Class,70,57,3.96,2.0,1.96,81.43
+2017-04,LATAM,Caribbean,Standard Class,151,57,3.94,4.0,0.58,37.75
+2017-04,LATAM,Central America,First Class,141,141,2.0,1.0,1.0,100.0
+2017-04,LATAM,Central America,Same Day,39,18,0.46,0.0,0.46,46.15
+2017-04,LATAM,Central America,Second Class,197,154,3.98,2.0,1.98,78.17
+2017-04,LATAM,Central America,Standard Class,621,234,3.95,4.0,0.57,37.68
+2017-04,LATAM,South America,First Class,61,61,2.0,1.0,1.0,100.0
+2017-04,LATAM,South America,Same Day,25,5,0.2,0.0,0.2,20.0
+2017-04,LATAM,South America,Second Class,67,51,3.94,2.0,1.94,76.12
+2017-04,LATAM,South America,Standard Class,248,101,4.08,4.0,0.62,40.73
+2017-05,LATAM,Caribbean,First Class,43,43,2.0,1.0,1.0,100.0
+2017-05,LATAM,Caribbean,Same Day,15,9,0.6,0.0,0.6,60.0
+2017-05,LATAM,Caribbean,Second Class,47,37,3.72,2.0,1.72,78.72
+2017-05,LATAM,Caribbean,Standard Class,160,58,4.01,4.0,0.56,36.25
+2017-05,LATAM,Central America,First Class,163,163,2.0,1.0,1.0,100.0
+2017-05,LATAM,Central America,Same Day,55,30,0.55,0.0,0.55,54.55
+2017-05,LATAM,Central America,Second Class,172,133,3.9,2.0,1.9,77.33
+2017-05,LATAM,Central America,Standard Class,588,241,4.02,4.0,0.61,40.99
+2017-05,LATAM,South America,First Class,80,80,2.0,1.0,1.0,100.0
+2017-05,LATAM,South America,Same Day,23,8,0.35,0.0,0.35,34.78
+2017-05,LATAM,South America,Second Class,91,72,4.03,2.0,2.03,79.12
+2017-05,LATAM,South America,Standard Class,235,91,3.93,4.0,0.57,38.72
+2017-06,Europe,Northern Europe,First Class,24,24,2.0,1.0,1.0,100.0
+2017-06,Europe,Northern Europe,Same Day,2,1,0.5,0.0,0.5,50.0
+2017-06,Europe,Northern Europe,Second Class,23,15,3.7,2.0,1.7,65.22
+2017-06,Europe,Northern Europe,Standard Class,89,34,3.9,4.0,0.57,38.2
+2017-06,Europe,Southern Europe,First Class,19,19,2.0,1.0,1.0,100.0
+2017-06,Europe,Southern Europe,Same Day,7,3,0.43,0.0,0.43,42.86
+2017-06,Europe,Southern Europe,Second Class,26,19,3.62,2.0,1.62,73.08
+2017-06,Europe,Southern Europe,Standard Class,69,33,4.19,4.0,0.74,47.83
+2017-06,Europe,Western Europe,First Class,68,68,2.0,1.0,1.0,100.0
+2017-06,Europe,Western Europe,Same Day,24,16,0.67,0.0,0.67,66.67
+2017-06,Europe,Western Europe,Second Class,66,51,4.0,2.0,2.0,77.27
+2017-06,Europe,Western Europe,Standard Class,282,120,4.09,4.0,0.63,42.55
+2017-06,LATAM,Caribbean,First Class,9,9,2.0,1.0,1.0,100.0
+2017-06,LATAM,Caribbean,Same Day,8,4,0.5,0.0,0.5,50.0
+2017-06,LATAM,Caribbean,Second Class,14,10,3.93,2.0,1.93,71.43
+2017-06,LATAM,Caribbean,Standard Class,73,26,3.84,4.0,0.52,35.62
+2017-06,LATAM,Central America,First Class,61,61,2.0,1.0,1.0,100.0
+2017-06,LATAM,Central America,Same Day,20,10,0.5,0.0,0.5,50.0
+2017-06,LATAM,Central America,Second Class,74,59,3.99,2.0,1.99,79.73
+2017-06,LATAM,Central America,Standard Class,242,99,3.99,4.0,0.6,40.91
+2017-06,LATAM,South America,First Class,54,54,2.0,1.0,1.0,100.0
+2017-06,LATAM,South America,Same Day,17,6,0.35,0.0,0.35,35.29
+2017-06,LATAM,South America,Second Class,92,75,4.17,2.0,2.17,81.52
+2017-06,LATAM,South America,Standard Class,242,95,3.96,4.0,0.59,39.26
+2017-07,Europe,Northern Europe,First Class,37,37,2.0,1.0,1.0,100.0
+2017-07,Europe,Northern Europe,Same Day,31,16,0.52,0.0,0.52,51.61
+2017-07,Europe,Northern Europe,Second Class,71,55,3.77,2.0,1.77,77.46
+2017-07,Europe,Northern Europe,Standard Class,206,78,4.05,4.0,0.59,37.86
+2017-07,Europe,Southern Europe,First Class,53,53,2.0,1.0,1.0,100.0
+2017-07,Europe,Southern Europe,Same Day,28,22,0.79,0.0,0.79,78.57
+2017-07,Europe,Southern Europe,Second Class,68,58,4.15,2.0,2.15,85.29
+2017-07,Europe,Southern Europe,Standard Class,233,86,3.92,4.0,0.54,36.91
+2017-07,Europe,Western Europe,First Class,153,153,2.0,1.0,1.0,100.0
+2017-07,Europe,Western Europe,Same Day,55,31,0.56,0.0,0.56,56.36
+2017-07,Europe,Western Europe,Second Class,196,161,4.06,2.0,2.06,82.14
+2017-07,Europe,Western Europe,Standard Class,562,216,3.92,4.0,0.58,38.43
+2017-08,Europe,Northern Europe,First Class,49,49,2.0,1.0,1.0,100.0
+2017-08,Europe,Northern Europe,Same Day,17,8,0.47,0.0,0.47,47.06
+2017-08,Europe,Northern Europe,Second Class,77,61,4.13,2.0,2.13,79.22
+2017-08,Europe,Northern Europe,Standard Class,229,94,3.97,4.0,0.61,41.05
+2017-08,Europe,Southern Europe,First Class,50,50,2.0,1.0,1.0,100.0
+2017-08,Europe,Southern Europe,Same Day,19,9,0.47,0.0,0.47,47.37
+2017-08,Europe,Southern Europe,Second Class,61,50,4.0,2.0,2.0,81.97
+2017-08,Europe,Southern Europe,Standard Class,192,74,3.98,4.0,0.58,38.54
+2017-08,Europe,Western Europe,First Class,163,163,2.0,1.0,1.0,100.0
+2017-08,Europe,Western Europe,Same Day,51,22,0.43,0.0,0.43,43.14
+2017-08,Europe,Western Europe,Second Class,211,170,4.05,2.0,2.05,80.57
+2017-08,Europe,Western Europe,Standard Class,576,231,3.98,4.0,0.6,40.1
+2017-09,Europe,Northern Europe,First Class,44,44,2.0,1.0,1.0,100.0
+2017-09,Europe,Northern Europe,Same Day,14,10,0.71,0.0,0.71,71.43
+2017-09,Europe,Northern Europe,Second Class,66,55,3.95,2.0,1.95,83.33
+2017-09,Europe,Northern Europe,Standard Class,227,96,4.07,4.0,0.64,42.29
+2017-09,Europe,Southern Europe,First Class,56,56,2.0,1.0,1.0,100.0
+2017-09,Europe,Southern Europe,Same Day,19,13,0.68,0.0,0.68,68.42
+2017-09,Europe,Southern Europe,Second Class,73,58,3.66,2.0,1.66,79.45
+2017-09,Europe,Southern Europe,Standard Class,192,70,3.9,4.0,0.56,36.46
+2017-09,Europe,Western Europe,First Class,136,136,2.0,1.0,1.0,100.0
+2017-09,Europe,Western Europe,Same Day,55,32,0.58,0.0,0.58,58.18
+2017-09,Europe,Western Europe,Second Class,181,145,4.12,2.0,2.12,80.11
+2017-09,Europe,Western Europe,Standard Class,577,226,3.96,4.0,0.58,39.17
+2017-10,Europe,Northern Europe,First Class,71,71,2.0,1.0,1.0,100.0
+2017-10,Europe,Northern Europe,Same Day,35,15,0.43,0.0,0.43,42.86
+2017-10,Europe,Northern Europe,Second Class,75,65,4.33,2.0,2.33,86.67
+2017-10,Europe,Northern Europe,Standard Class,239,84,3.85,4.0,0.51,35.15
+2017-10,Europe,Southern Europe,First Class,56,56,2.0,1.0,1.0,100.0
+2017-10,Europe,Southern Europe,Same Day,18,3,0.17,0.0,0.17,16.67
+2017-10,Europe,Southern Europe,Second Class,84,67,4.15,2.0,2.15,79.76
+2017-10,Europe,Southern Europe,Standard Class,247,85,3.87,4.0,0.52,34.41
+2017-10,Europe,Western Europe,First Class,201,201,2.0,1.0,1.0,100.0
+2017-10,Europe,Western Europe,Same Day,53,31,0.58,0.0,0.58,58.49
+2017-10,Europe,Western Europe,Second Class,200,156,3.91,2.0,1.91,78.0
+2017-10,Europe,Western Europe,Standard Class,740,303,4.03,4.0,0.62,40.95
+2017-11,Europe,Northern Europe,First Class,20,20,2.0,1.0,1.0,100.0
+2017-11,Europe,Northern Europe,Same Day,11,4,0.36,0.0,0.36,36.36
+2017-11,Europe,Northern Europe,Second Class,31,22,3.87,2.0,1.87,70.97
+2017-11,Europe,Northern Europe,Standard Class,94,39,4.0,4.0,0.65,41.49
+2017-11,Europe,Southern Europe,First Class,14,14,2.0,1.0,1.0,100.0
+2017-11,Europe,Southern Europe,Same Day,9,6,0.67,0.0,0.67,66.67
+2017-11,Europe,Southern Europe,Second Class,34,31,4.09,2.0,2.09,91.18
+2017-11,Europe,Southern Europe,Standard Class,83,33,3.94,4.0,0.57,39.76
+2017-11,Europe,Western Europe,First Class,59,59,2.0,1.0,1.0,100.0
+2017-11,Europe,Western Europe,Same Day,16,6,0.38,0.0,0.38,37.5
+2017-11,Europe,Western Europe,Second Class,86,70,4.09,2.0,2.09,81.4
+2017-11,Europe,Western Europe,Standard Class,187,76,4.02,4.0,0.61,40.64
+2017-11,Pacific Asia,Eastern Asia,First Class,57,57,2.0,1.0,1.0,100.0
+2017-11,Pacific Asia,Eastern Asia,Same Day,14,8,0.57,0.0,0.57,57.14
+2017-11,Pacific Asia,Eastern Asia,Second Class,68,53,4.01,2.0,2.01,77.94
+2017-11,Pacific Asia,Eastern Asia,Standard Class,221,85,3.97,4.0,0.58,38.46
+2017-11,Pacific Asia,Oceania,First Class,52,52,2.0,1.0,1.0,100.0
+2017-11,Pacific Asia,Oceania,Same Day,12,5,0.42,0.0,0.42,41.67
+2017-11,Pacific Asia,Oceania,Second Class,75,60,3.84,2.0,1.84,80.0
+2017-11,Pacific Asia,Oceania,Standard Class,216,88,4.04,4.0,0.6,40.74
+2017-11,Pacific Asia,South Asia,First Class,42,42,2.0,1.0,1.0,100.0
+2017-11,Pacific Asia,South Asia,Same Day,13,11,0.85,0.0,0.85,84.62
+2017-11,Pacific Asia,South Asia,Second Class,40,31,4.03,2.0,2.03,77.5
+2017-11,Pacific Asia,South Asia,Standard Class,153,58,4.0,4.0,0.56,37.91
+2017-11,Pacific Asia,Southeast Asia,First Class,50,50,2.0,1.0,1.0,100.0
+2017-11,Pacific Asia,Southeast Asia,Same Day,23,13,0.57,0.0,0.57,56.52
+2017-11,Pacific Asia,Southeast Asia,Second Class,57,48,4.18,2.0,2.18,84.21
+2017-11,Pacific Asia,Southeast Asia,Standard Class,219,91,3.97,4.0,0.61,41.55
+2017-12,Pacific Asia,Eastern Asia,First Class,64,64,2.0,1.0,1.0,100.0
+2017-12,Pacific Asia,Eastern Asia,Same Day,31,16,0.52,0.0,0.52,51.61
+2017-12,Pacific Asia,Eastern Asia,Second Class,82,66,4.1,2.0,2.1,80.49
+2017-12,Pacific Asia,Eastern Asia,Standard Class,285,118,4.09,4.0,0.62,41.4
+2017-12,Pacific Asia,Oceania,First Class,71,71,2.0,1.0,1.0,100.0
+2017-12,Pacific Asia,Oceania,Same Day,41,29,0.71,0.0,0.71,70.73
+2017-12,Pacific Asia,Oceania,Second Class,76,58,3.83,2.0,1.83,76.32
+2017-12,Pacific Asia,Oceania,Standard Class,300,114,3.93,4.0,0.57,38.0
+2017-12,Pacific Asia,South Asia,First Class,58,58,2.0,1.0,1.0,100.0
+2017-12,Pacific Asia,South Asia,Same Day,26,17,0.65,0.0,0.65,65.38
+2017-12,Pacific Asia,South Asia,Second Class,87,68,4.01,2.0,2.01,78.16
+2017-12,Pacific Asia,South Asia,Standard Class,214,87,4.0,4.0,0.62,40.65
+2017-12,Pacific Asia,Southeast Asia,First Class,97,97,2.0,1.0,1.0,100.0
+2017-12,Pacific Asia,Southeast Asia,Same Day,28,17,0.61,0.0,0.61,60.71
+2017-12,Pacific Asia,Southeast Asia,Second Class,162,132,4.01,2.0,2.01,81.48
+2017-12,Pacific Asia,Southeast Asia,Standard Class,409,160,3.95,4.0,0.59,39.12
+2018-01,Pacific Asia,Eastern Asia,First Class,74,74,2.0,1.0,1.0,100.0
+2018-01,Pacific Asia,Eastern Asia,Same Day,24,12,0.5,0.0,0.5,50.0
+2018-01,Pacific Asia,Eastern Asia,Second Class,85,72,4.13,2.0,2.13,84.71
+2018-01,Pacific Asia,Eastern Asia,Standard Class,247,102,4.03,4.0,0.64,41.3
+2018-01,Pacific Asia,Oceania,First Class,85,85,2.0,1.0,1.0,100.0
+2018-01,Pacific Asia,Oceania,Same Day,40,19,0.48,0.0,0.48,47.5
+2018-01,Pacific Asia,Oceania,Second Class,121,95,3.84,2.0,1.84,78.51
+2018-01,Pacific Asia,Oceania,Standard Class,278,116,4.06,4.0,0.61,41.73
+2018-01,Pacific Asia,South Asia,First Class,67,67,2.0,1.0,1.0,100.0
+2018-01,Pacific Asia,South Asia,Same Day,26,11,0.42,0.0,0.42,42.31
+2018-01,Pacific Asia,South Asia,Second Class,92,77,4.16,2.0,2.16,83.7
+2018-01,Pacific Asia,South Asia,Standard Class,270,100,3.94,4.0,0.56,37.04
+2018-01,Pacific Asia,Southeast Asia,First Class,95,95,2.0,1.0,1.0,100.0
+2018-01,Pacific Asia,Southeast Asia,Same Day,22,8,0.36,0.0,0.36,36.36
+2018-01,Pacific Asia,Southeast Asia,Second Class,127,99,3.94,2.0,1.94,77.95
+2018-01,Pacific Asia,Southeast Asia,Standard Class,384,163,4.04,4.0,0.65,42.45

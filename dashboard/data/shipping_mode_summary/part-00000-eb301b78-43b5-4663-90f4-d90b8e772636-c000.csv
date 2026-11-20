@@ -1,0 +1,5 @@
+shipping_mode,total_orders,late_orders,avg_actual_days,avg_scheduled_days,avg_excess_days,late_rate_pct
+Standard Class,37632,14995,3.99,4.0,0.6,39.85
+Second Class,12256,9803,4.0,2.0,2.0,79.99
+First Class,9602,9602,2.0,1.0,1.0,100.0
+Same Day,3407,1648,0.48,0.0,0.48,48.37

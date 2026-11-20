@@ -1,0 +1,7 @@
+.venv/
+target/
+project/target/
+project/project/
+data/raw/
+!dashboard/data/.gitkeep
+.DS_Store
